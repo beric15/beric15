@@ -1,2 +1,11 @@
-The programming languages ​​I use: ![image](https://github.com/beric15/beric15/assets/113353211/7c154eec-ef35-4425-960f-88e6abb4cddb) ![image](https://github.com/beric15/beric15/assets/113353211/2daf9bcb-51cf-45d6-b174-4d9e20d761f6) ![image](https://github.com/beric15/beric15/assets/113353211/dc73c129-e15e-47b4-a9df-475e838a0e09) ![image](https://github.com/beric15/beric15/assets/113353211/ca3cf78e-29b5-40b3-9332-b22590a79af6)
+<h1 align="center">Hi 👋, I'm beric15</h1>
+<h3 align="center">Passionate about programming and cyber security</h3>
 
+- 💬 Ask me about **any questions regarding programming**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
