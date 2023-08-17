@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm beric15</h1>
 <h3 align="center">Passionate about programming and cyber security</h3>
-<img align="right" alt="Coding" width="400" src=![image](https://github.com/beric15/beric15/assets/113353211/39cc981f-1f14-48b1-b4ac-4fba47507885)
 
 - 🌱 I’m currently learning **ethical hacking**
 
